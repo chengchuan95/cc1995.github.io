@@ -1,9 +1,10 @@
+
 [
-[{"bid":"com.cc.cn"},
- {"auditState":1},
- {"url":"http://www.baidu.com"}],
+{"bid":"com.cc.cn",
+ "auditState":1,
+ "url":"http://www.baidu.com"},
  
- [{"bid":"com.cc.cn"},
- {"auditState":1},
- {"url":"http://www.baidu.com"}]
-]
+ {"bid":"com.cc.cn",
+ "auditState":1,
+ "url":"http://www.baidu.com"}
+ ]
