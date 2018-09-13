@@ -1,12 +1,12 @@
 
 [
-{"bid":"lian.dshs.lian",
- "auditState":0,
- "url":"",
- "version":"1.0.4"},
- 
  {"bid":"com.shanxin.cp",
  "auditState":1,
  "url":"",
- "version":"1.0.4"}
+ "version":"1.0.4"},
+
+ {"bid":"phss.xiuxian.nniu",
+ "auditState":1,
+ "url":"",
+ "version":"1.0.1"}
  ]
