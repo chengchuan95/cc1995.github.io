@@ -1,12 +1,14 @@
 
 [
- {"bid":"com.shanxin.cp",
- "auditState":1,
- "url":"https://xyq.cbg.163.com/equip?s=417&eid=202109161500113-417-80MUEXKGIDUP&o&equip_refer=1#collect_panel",
- "version":"1.0.4"},
-
- {"bid":"com.shanxin.cp",
- "auditState":0,
- "url":"https://www.baidu.com",
- "version":"1.1.4"}
+ 
+ "https://xyq.cbg.163.com/equip?s=417&eid=202109161500113-417-80MUEXKGIDUP&o&equip_refer=1#collect_panel",
+ 
+ "https://xyq-m.cbg.163.com/cgi/mweb/equip/266/202108252300113-266-MZCJIK6GFY7R?view_loc=link_copy&shareSource=xyq",
+ 
+ "https://xyq-m.cbg.163.com/cgi/mweb/equip/266/202109191100113-266-YO4P6AV5F3P0?view_loc=link_copy&shareSource=xyq",
+ 
+ "https://xyq-m.cbg.163.com/cgi/mweb/equip/266/202105062100113-266-XAMM2WDLTEJG?view_loc=link_copy&shareSource=xyq",
+ 
+ "https://xyq-m.cbg.163.com/cgi/mweb/equip/266/202109092100113-266-STV5NBIAGV6T?view_loc=link_copy&shareSource=xyq"
+ 
  ]
